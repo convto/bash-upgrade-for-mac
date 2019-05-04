@@ -3,7 +3,7 @@ bash upgrade script
 
 ## usage
 ```bash
-$ curl -L https://raw.githubusercontent.com/convto/bash-upgrade-for-mac | bash
+$ curl -L https://raw.githubusercontent.com/convto/bash-upgrade-for-mac/master/bash-upgrade.sh | bash
 ```
 
 ## references
